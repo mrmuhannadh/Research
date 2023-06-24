@@ -1,0 +1,10 @@
+Epoch: 0 Train Loss: tensor(8.8233) Train Accuracy: 0.6237288135593221 Test Accuracy: 0.6666666666666666
+Epoch: 1 Train Loss: tensor(1.9115) Train Accuracy: 0.8949152542372881 Test Accuracy: 0.6929133858267716
+Epoch: 2 Train Loss: tensor(0.4909) Train Accuracy: 0.9423728813559322 Test Accuracy: 0.7454068241469817
+Epoch: 3 Train Loss: tensor(0.2163) Train Accuracy: 0.9728813559322034 Test Accuracy: 0.7847769028871391
+Epoch: 4 Train Loss: tensor(0.4477) Train Accuracy: 0.9677966101694915 Test Accuracy: 0.7979002624671916
+Epoch: 5 Train Loss: tensor(0.2300) Train Accuracy: 0.964406779661017 Test Accuracy: 0.821522309711286
+Epoch: 6 Train Loss: tensor(0.1389) Train Accuracy: 0.9779661016949153 Test Accuracy: 0.6981627296587927
+Epoch: 7 Train Loss: tensor(0.4337) Train Accuracy: 0.964406779661017 Test Accuracy: 0.8556430446194225
+Epoch: 8 Train Loss: tensor(0.0665) Train Accuracy: 0.988135593220339 Test Accuracy: 0.7559055118110236
+Epoch: 9 Train Loss: tensor(0.0986) Train Accuracy: 0.9898305084745763 Test Accuracy: 0.7716535433070866
